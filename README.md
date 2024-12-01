@@ -31,7 +31,7 @@ Restful Booker is a booking application that provides various booking services a
 ## Instructions for Running the Tests in CLI
 
 1. **Install dependencies for NodeJs and Newman**
-2. **Download the collectioon, enviroment and bat files**
+2. **Download the collection, enviroment and bat files**
 3. **Click on Run.bat file to run the tests**
 4. **Test results will be published in newman folder**
 
